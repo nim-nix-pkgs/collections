@@ -9,7 +9,7 @@
   
   inputs.src-collections-v0_3_4.flake = false;
   inputs.src-collections-v0_3_4.owner = "zielmicha";
-  inputs.src-collections-v0_3_4.ref   = "refs/tags/v0.3.4";
+  inputs.src-collections-v0_3_4.ref   = "v0_3_4";
   inputs.src-collections-v0_3_4.repo  = "collections.nim";
   inputs.src-collections-v0_3_4.type  = "github";
   
