@@ -11,6 +11,7 @@
   inputs.src-collections-master.ref   = "refs/heads/master";
   inputs.src-collections-master.owner = "zielmicha";
   inputs.src-collections-master.repo  = "collections.nim";
+  inputs.src-collections-master.dir   = "";
   inputs.src-collections-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
