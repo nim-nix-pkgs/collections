@@ -11,7 +11,6 @@
   inputs.src-collections-v0_3_4.ref   = "refs/tags/v0.3.4";
   inputs.src-collections-v0_3_4.owner = "zielmicha";
   inputs.src-collections-v0_3_4.repo  = "collections.nim";
-  inputs.src-collections-v0_3_4.dir   = "";
   inputs.src-collections-v0_3_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
