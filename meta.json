@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/zielmicha/collections.nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/zielmicha/collections.nim/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/zielmicha/collections.nim/': Failed to connect to github.com port 443 after 129452 ms: Network is unreachable",
     ""
   ],
   "heads": []
